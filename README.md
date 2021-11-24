@@ -45,11 +45,13 @@ Embedded Linux Projects Using Yocto Project Cookbook.pdf
 Linux内核精髓-精通Linux内核必会的75个绝技[1].pdf  
 Linux设备驱动开发详解_宋宝华.pdf  
 LINUX设备驱动程序.pdf  
+Linux命令行与shell脚本编程大全第3版.pdf  
 mini2440之U-boot移植详细手册-20100419.pdf  
 openwrt编译框架分析.pdf  
 progit.pdf  
 Flask-Web开发：基于Python的Web应用开发实战.pdf  
 python_advanced_packages_.pdf  
+Rust权威指南.pdf  
 wpa_supplicant-devel.pdf  
 菜鸟的操作系统梦.pdf  
 
