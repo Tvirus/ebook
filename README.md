@@ -11,6 +11,7 @@ usb_20_20181221.zip
 USB_PD_R3_0 V1.1 20170112.pdf  
 
 ## 数学
+Matrix Computations(4th).pdf  
 数学/矩阵计算(第3版).pdf  
 线性代数及其应用答案（第5版）.pdf  
 线性代数及其应用（第5版）.zip  
