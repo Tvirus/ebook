@@ -39,17 +39,18 @@ gcc.pdf
 Denis Bakhvalov - Performance Analysis and Tuning on Modern CPUs.pdf  
 go语言圣经.pdf  
 The.Go.Programming.Language.2015.11.pdf  
-gun_make.pdf  
 Boot_one_second_altenberg.pdf  
 Debug Hacks中文版—深入调试的技术和工具.pdf  
-Embedded Linux Development with Yocto Project.pdf  
-Embedded Linux Projects Using Yocto Project Cookbook.pdf  
-Linux内核精髓-精通Linux内核必会的75个绝技[1].pdf  
+Linux内核精髓-精通Linux内核必会的75个绝技.pdf  
+Linux命令行与shell脚本编程大全第3版.pdf  
 Linux设备驱动开发详解_宋宝华.pdf  
 LINUX设备驱动程序.pdf  
-Linux命令行与shell脚本编程大全第3版.pdf  
-mini2440之U-boot移植详细手册-20100419.pdf  
+Embedded Linux Development with Yocto Project.pdf  
+Embedded Linux Projects Using Yocto Project Cookbook.pdf  
+gun_make.pdf  
 openwrt编译框架分析.pdf  
+The Buildroot user manual.pdf  
+mini2440之U-boot移植详细手册-20100419.pdf  
 progit.pdf  
 Flask-Web开发：基于Python的Web应用开发实战.pdf  
 python_advanced_packages_.pdf  
