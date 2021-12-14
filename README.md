@@ -45,6 +45,7 @@ Linux内核精髓-精通Linux内核必会的75个绝技.pdf
 Linux命令行与shell脚本编程大全第3版.pdf  
 Linux设备驱动开发详解_宋宝华.pdf  
 LINUX设备驱动程序.pdf  
+Embedded Linux Development Using Yocto Project Cookbook Second Edition.pdf  
 Embedded Linux Development with Yocto Project.pdf  
 Embedded Linux Projects Using Yocto Project Cookbook.pdf  
 gun_make.pdf  
