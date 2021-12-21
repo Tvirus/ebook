@@ -12,13 +12,14 @@ USB_PD_R3_0 V1.1 20170112.pdf
 
 ## 数学
 Matrix Computations(4th).pdf  
-数学/矩阵计算(第3版).pdf  
+矩阵计算(第3版).pdf  
+算法图解.pdf  
 线性代数及其应用答案（第5版）.pdf  
 线性代数及其应用（第5版）.zip  
 统计学习方法.pdf  
 
 ## 深度学习
-Caffe官方教程中译本_CaffeCN社区翻译(caffecn.cn) .pdf  
+Caffe官方教程中译本_CaffeCN社区翻译.pdf  
 caffe网络模型各层详解(中文版).pdf  
 深度学习中文版.pdf  
 
