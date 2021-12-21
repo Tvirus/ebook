@@ -39,6 +39,7 @@ GCC The Complete Reference-中文.pdf
 GCC The Complete Reference.pdf  
 gcc.pdf  
 Denis Bakhvalov - Performance Analysis and Tuning on Modern CPUs.pdf  
+Go学习笔记(第4版).pdf  
 go语言圣经.pdf  
 The.Go.Programming.Language.2015.11.pdf  
 Boot_one_second_altenberg.pdf  
