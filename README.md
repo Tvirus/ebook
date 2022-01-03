@@ -12,6 +12,7 @@ USB_PD_R3_0 V1.1 20170112.pdf
 
 ## 数学
 Matrix Computations(4th).pdf  
+信号与系统(第二版).pdf  
 矩阵计算(第3版).pdf  
 算法图解.pdf  
 线性代数及其应用答案（第5版）.pdf  
@@ -34,7 +35,7 @@ The Art of Electronics 3rd ed [2015].pdf
 运算放大器稳定性分析系列.doc  
 高速电路设计实践.pdf  
 
-## 编程
+## 计算机
 GCC The Complete Reference-中文.pdf  
 GCC The Complete Reference.pdf  
 gcc.pdf  
