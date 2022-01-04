@@ -24,6 +24,7 @@ Caffe官方教程中译本_CaffeCN社区翻译.pdf
 caffe网络模型各层详解(中文版).pdf  
 机器学习_周志华.pdf  
 深度学习中文版.pdf  
+神经网络与机器学习(原书第3版).pdf  
 
 ## 硬件
 High_Speed_Design.pdf  
