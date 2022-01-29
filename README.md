@@ -69,6 +69,7 @@ wpa_supplicant-devel.pdf
 
 ## 金融
 打开量化投资的黑箱(原书第2版).pdf  
+量化投资策略 如何实现超额收益Alpha.pdf  
 高频交易(原书第2版).pdf  
 
 ## 音视频
