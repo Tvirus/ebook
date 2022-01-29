@@ -67,6 +67,9 @@ Rust权威指南.pdf
 wpa_supplicant-devel.pdf  
 菜鸟的操作系统梦.pdf  
 
+## 金融
+打开量化投资的黑箱(原书第2版).pdf  
+
 ## 音视频
 rfc2326_rtsp.txt  
 USB_Video_Class_1_5.zip  
