@@ -69,6 +69,7 @@ wpa_supplicant-devel.pdf
 
 ## 金融
 打开量化投资的黑箱(原书第2版).pdf  
+高频交易(原书第2版).pdf  
 
 ## 音视频
 rfc2326_rtsp.txt  
