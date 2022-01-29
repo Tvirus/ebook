@@ -60,7 +60,9 @@ mini2440之U-boot移植详细手册-20100419.pdf
 progit.pdf  
 Flask-Web开发：基于Python的Web应用开发实战.pdf  
 python_advanced_packages_.pdf  
+利用Python进行数据分析(原书第2版).pdf  
 利用Python进行数据分析(第2版).pdf  
+利用Python进行数据分析.pdf  
 Rust权威指南.pdf  
 wpa_supplicant-devel.pdf  
 菜鸟的操作系统梦.pdf  
