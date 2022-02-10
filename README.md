@@ -13,6 +13,7 @@ USB_PD_R3_0 V1.1 20170112.pdf
 ## 数学
 Matrix Computations(4th).pdf  
 信号与系统(第二版).pdf  
+卡尔曼滤波及其实时应用(第4版).pdf  
 矩阵计算(第3版).pdf  
 算法图解.pdf  
 线性代数及其应用答案（第5版）.pdf  
