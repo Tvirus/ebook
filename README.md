@@ -49,6 +49,7 @@ go语言圣经.pdf
 The.Go.Programming.Language.2015.11.pdf  
 Boot_one_second_altenberg.pdf  
 Debug Hacks中文版—深入调试的技术和工具.pdf  
+Linux内核完全注释.pdf  
 Linux内核精髓-精通Linux内核必会的75个绝技.pdf  
 Linux命令行与shell脚本编程大全第3版.pdf  
 Linux设备驱动开发详解_宋宝华.pdf  
