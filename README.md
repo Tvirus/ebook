@@ -81,6 +81,7 @@ rfc2326_rtsp.txt
 USB_Video_Class_1_5.zip  
 UVC 1.5 Class specification.pdf  
 video_file_format_spec_v10_1.pdf  
+深入理解计算机系统(原书第3版).pdf  
 算法图解.pdf  
 菜鸟的操作系统梦.pdf  
 
@@ -89,5 +90,3 @@ video_file_format_spec_v10_1.pdf
 算法交易 制胜策略与原理.pdf  
 量化投资策略 如何实现超额收益Alpha.pdf  
 高频交易(原书第2版).pdf  
-
-## 音视频
