@@ -56,6 +56,7 @@ progit.pdf
 Flask-Web开发：基于Python的Web应用开发实战.pdf  
 python_advanced_packages_.pdf  
 Python数据处理.pdf  
+Python数据挖掘入门与实践.pdf  
 Python机器学习基础教程.pdf  
 Python机器学习经典实例.pdf  
 Python测试驱动开发(第2版).pdf  
