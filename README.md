@@ -62,6 +62,7 @@ Python机器学习经典实例.pdf
 Python测试驱动开发(第2版).pdf  
 Python科学计算基础教程.pdf  
 Python编程从入门到实践.pdf  
+Python网络编程攻略.pdf  
 Python计算机视觉编程.pdf  
 利用Python进行数据分析(原书第2版).pdf  
 利用Python进行数据分析(第2版).pdf  
