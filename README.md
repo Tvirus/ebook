@@ -1,15 +1,4 @@
 
-## hdmi_dp
-DisplayPort 1.4 TX.pdf  
-HDMI_1.4.pdf  
-
-## usb_pd
-USB Power Delivery 20210706.zip  
-USB Video Class 1_5  
-usb3.0协议中文版.pdf  
-usb_20_20181221.zip  
-USB_PD_R3_0 V1.1 20170112.pdf  
-
 ## 数学
 Matrix Computations(4th).pdf  
 信号与系统(第二版).pdf  
@@ -18,7 +7,6 @@ Matrix Computations(4th).pdf
 卡尔曼滤波理论与实践(MATLAB版)(第四版).pdf  
 概率论基础教程(第9版).pdf  
 矩阵计算(第3版).pdf  
-算法图解.pdf  
 线性代数及其应用答案（第5版）.pdf  
 线性代数及其应用（第5版）.zip  
 统计学习方法.pdf  
@@ -48,6 +36,8 @@ Denis Bakhvalov - Performance Analysis and Tuning on Modern CPUs.pdf
 Go学习笔记(第4版).pdf  
 go语言圣经.pdf  
 The.Go.Programming.Language.2015.11.pdf  
+DisplayPort 1.4 TX.pdf  
+HDMI_1.4.pdf  
 Boot_one_second_altenberg.pdf  
 Debug Hacks中文版—深入调试的技术和工具.pdf  
 Linux内核完全注释.pdf  
@@ -69,7 +59,18 @@ python_advanced_packages_.pdf
 利用Python进行数据分析(第2版).pdf  
 利用Python进行数据分析.pdf  
 Rust权威指南.pdf  
+USB Power Delivery 20210706.zip  
+USB Video Class 1_5  
+usb3.0协议中文版.pdf  
+usb_20_20181221.zip  
+USB_PD_R3_0 V1.1 20170112.pdf  
+圈圈教你玩USB(第2版).pdf  
 wpa_supplicant-devel.pdf  
+rfc2326_rtsp.txt  
+USB_Video_Class_1_5.zip  
+UVC 1.5 Class specification.pdf  
+video_file_format_spec_v10_1.pdf  
+算法图解.pdf  
 菜鸟的操作系统梦.pdf  
 
 ## 金融
@@ -79,7 +80,3 @@ wpa_supplicant-devel.pdf
 高频交易(原书第2版).pdf  
 
 ## 音视频
-rfc2326_rtsp.txt  
-USB_Video_Class_1_5.zip  
-UVC 1.5 Class specification.pdf  
-video_file_format_spec_v10_1.pdf  
