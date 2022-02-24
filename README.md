@@ -66,6 +66,7 @@ Python网络编程攻略.pdf
 Python计算机视觉编程.pdf  
 Python语言及其应用.pdf  
 Python项目开发实战(第2版).pdf  
+Python高性能编程.pdf  
 利用Python进行数据分析(原书第2版).pdf  
 利用Python进行数据分析(第2版).pdf  
 利用Python进行数据分析.pdf  
