@@ -1,4 +1,7 @@
 
+## rfid
+FMCOS2.0通用技术手册(上海复旦微电子).pdf  
+
 ## 数学
 Matrix Computations(4th).pdf  
 信号与系统(第二版).pdf  
