@@ -6,6 +6,8 @@ ISO_IEC_14443-4(中文).pdf
 ISO_IEC_14443-4-2018-Amd-2-2020.pdf  
 ISO_IEC_14443-4-2018.pdf  
 ISO_IEC_7816-4-2013.pdf  
+智能卡ISO7816-4规范(中文版).doc  
+智能卡ISO7816-4规范(中文版).pdf  
 
 ## 数学
 Matrix Computations(4th).pdf  
