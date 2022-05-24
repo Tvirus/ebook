@@ -8,6 +8,7 @@ ISO_IEC_14443-4(中文).pdf
 ISO_IEC_14443-4-2018-Amd-2-2020.pdf  
 ISO_IEC_14443-4-2018.pdf  
 ISO_IEC_7816-4-2013.pdf  
+PBOC3.0规范.zip  
 智能卡ISO7816-4规范(中文版).doc  
 智能卡ISO7816-4规范(中文版).pdf  
 
