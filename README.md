@@ -1,5 +1,6 @@
 
 ## rfid
+FMCOS2.0专用技术手册.pdf  
 FMCOS2.0通用技术手册(上海复旦微电子).pdf  
 ISO7816-1234(中文).pdf  
 ISO_IEC_14443-4(中文).doc  
