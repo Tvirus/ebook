@@ -28,7 +28,9 @@ Matrix Computations(4th).pdf
 Caffe官方教程中译本_CaffeCN社区翻译.pdf  
 caffe网络模型各层详解(中文版).pdf  
 机器学习_周志华.pdf  
-深度学习中文版.pdf  
+深度学习(花书).pdf  
+深度学习(花书)_2.pdf  
+深度学习(花书)_3.pdf  
 神经网络与机器学习(原书第3版).pdf  
 
 ## 硬件
