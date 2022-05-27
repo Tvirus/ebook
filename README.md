@@ -105,6 +105,7 @@ USB_Video_Class_1_5.zip
 UVC 1.5 Class specification.pdf  
 video_file_format_spec_v10_1.pdf  
 WebRTC权威指南(原书第3版).pdf  
+腾讯云超低延时直播白皮书.pdf  
 性能之巅洞悉系统、企业与云计算.pdf  
 深入理解计算机系统(原书第3版).pdf  
 学习OpenCV3.pdf  
