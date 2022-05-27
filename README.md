@@ -38,6 +38,7 @@ PCB信号完整性分析与设计(硕士学位论文).pdf
 SD-CLK波形分析.pdf  
 The Art of Electronics 3rd ed [2015].pdf  
 中兴通讯硬件一部巨作-信号完整性.pdf  
+数字电子技术(第十版).pdf  
 运算放大器稳定性分析(TI合集).pdf  
 运算放大器稳定性分析系列.doc  
 高等电磁场理论(第二版).pdf  
