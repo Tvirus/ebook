@@ -106,6 +106,7 @@ UVC 1.5 Class specification.pdf
 video_file_format_spec_v10_1.pdf  
 WebRTC权威指南(原书第3版).pdf  
 深入理解计算机系统(原书第3版).pdf  
+数字图像处理(第四版).pdf  
 算法图解.pdf  
 菜鸟的操作系统梦.pdf  
 
