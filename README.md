@@ -2,6 +2,7 @@
 ## ISO_IEC
 ISO_IEC_14443  
 ISO_IEC_7816  
+中国金融集成电路(IC)卡规范PBOC_送审稿  
 
 ## rfid
 FMCOS2.0专用技术手册.pdf  
@@ -12,7 +13,6 @@ ISO_IEC_14443-4(中文).doc
 ISO_IEC_14443-4(中文).pdf  
 ISO_IEC_14443-4-2018.pdf  
 ISO_IEC_7816-4-2013.pdf  
-PBOC3.0规范.zip  
 智能卡ISO7816-4规范(中文版).doc  
 智能卡ISO7816-4规范(中文版).pdf  
 
