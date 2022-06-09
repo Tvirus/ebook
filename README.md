@@ -13,6 +13,7 @@ ISO_IEC_14443-4(中文).doc
 ISO_IEC_14443-4(中文).pdf  
 ISO_IEC_14443-4-2018.pdf  
 ISO_IEC_7816-4-2013.pdf  
+RFID芯片天线设计与匹配简单参考资料.pdf  
 复旦微读写器天线设计.pdf  
 智能卡ISO7816-4规范(中文版).doc  
 智能卡ISO7816-4规范(中文版).pdf  
