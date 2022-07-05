@@ -55,6 +55,7 @@ The Art of Electronics 3rd ed [2015].pdf
 高速电路设计实践.pdf  
 
 ## 计算机
+DEBUG HACKS深入调试的技术和工具.pdf  
 GCC The Complete Reference-中文.pdf  
 GCC The Complete Reference.pdf  
 gcc.pdf  
