@@ -4,6 +4,7 @@ ISO_IEC_14443
 ISO_IEC_15693  
 ISO_IEC_18092  
 ISO_IEC_7816  
+NFC_Data_Exchange_Format_(NDEF)_1.0.pdf  
 中国金融集成电路(IC)卡规范PBOC_送审稿  
 
 ## rfid
