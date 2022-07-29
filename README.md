@@ -6,6 +6,7 @@ ISO_IEC_18092
 ISO_IEC_7816  
 Activity_1.1.pdf  
 Connection_Handover_1.2.pdf  
+Generic_Control_Record_Type_Definition_1.0.pdf  
 Logical_Link_Control_Protocol_(LLCP)_1.1.pdf  
 NFC_Activity_Specification_1.0.pdf  
 NFC_Analog_Specification_1.0.pdf  
