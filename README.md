@@ -21,6 +21,7 @@ Simple_NDEF_Exchange_Protocol_(SNEP)_1.0.pdf
 Smart_Poster_Record_Type_Definition_1.0.pdf  
 Text_Record_Type_Definition_1.0.pdf  
 Type_1_Tag_Operation_1.2.pdf  
+Type_1_Tag_Operation_Specification_1.1.pdf  
 Type_2_Tag_Operation_Specification_1.1.pdf  
 Type_3_Tag_Operation_Specification_1.1.pdf  
 Type_4_Tag_Operation_3.0.pdf  
