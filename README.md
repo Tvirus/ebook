@@ -9,6 +9,7 @@ NFC_Data_Exchange_Format_(NDEF)_1.0.pdf
 NFC_Digital_Protocol_1.0.pdf  
 NFC_Tag_Type_5_Specification_1.8.pdf  
 Simple_NDEF_Exchange_Protocol_(SNEP)_1.0.pdf  
+Text_Record_Type_Definition_1.0.pdf  
 Type_1_Tag_Operation_1.2.pdf  
 Type_2_Tag_Operation_Specification_1.1.pdf  
 Type_4_Tag_Operation_3.0.pdf  
