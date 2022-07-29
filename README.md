@@ -7,6 +7,7 @@ ISO_IEC_7816
 NFC_Data_Exchange_Format_(NDEF)_1.0.pdf  
 NFC_Digital_Protocol_1.0.pdf  
 NFC_Tag_Type_5_Specification_1.8.pdf  
+Type_2_Tag_Operation_Specification_1.1.pdf  
 Type_4_Tag_Operation_Specification_2.0.pdf  
 中国金融集成电路(IC)卡规范PBOC_送审稿  
 
