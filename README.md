@@ -38,6 +38,7 @@ URI Record Type Definition 1.0.pdf
 FMCOS2.0专用技术手册.pdf  
 FMCOS2.0用户手册.pdf  
 FMCOS2.0通用技术手册(上海复旦微电子).pdf  
+FMCOS2.0通用技术手册1.1.2.pdf  
 ISO7816-1234(中文).pdf  
 ISO_IEC_14443-4(中文).doc  
 ISO_IEC_14443-4(中文).pdf  
