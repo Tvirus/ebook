@@ -102,6 +102,7 @@ DisplayPort 1.4 TX.pdf
 HDMI_1.4.pdf  
 Boot_one_second_altenberg.pdf  
 Debug Hacks中文版—深入调试的技术和工具.pdf  
+Linux_UNIX系统编程手册.pdf  
 Linux内核完全注释.pdf  
 Linux内核深度解析.pdf  
 Linux内核精髓-精通Linux内核必会的75个绝技.pdf  
