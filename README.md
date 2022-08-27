@@ -76,12 +76,13 @@ caffe网络模型各层详解(中文版).pdf
 神经网络与机器学习(原书第3版).pdf  
 
 ## 硬件
-High_Speed_Design.pdf  
+高速设计技术.pdf  
 IC封装基础与工程设计实例.pdf  
 PCB信号完整性分析与设计(硕士学位论文).pdf  
 SD-CLK波形分析.pdf  
 The Art of Electronics 3rd ed [2015].pdf  
 中兴通讯硬件一部巨作-信号完整性.pdf  
+华为高速数字电路设计教材  
 微电子电路设计(第四版).pdf  
 数字电子技术(第十版).pdf  
 运算放大器稳定性分析(TI合集).pdf  
