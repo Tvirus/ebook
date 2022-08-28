@@ -76,7 +76,7 @@ caffe网络模型各层详解(中文版).pdf
 神经网络与机器学习(原书第3版).pdf  
 
 ## 硬件
-高速设计技术.pdf  
+Baker放大器文章精选.pdf  
 IC封装基础与工程设计实例.pdf  
 MT-031_实现数据转换器的接地.pdf  
 PCB信号完整性分析与设计(硕士学位论文).pdf  
@@ -92,6 +92,7 @@ The Art of Electronics 3rd ed [2015].pdf
 运算放大器稳定性分析系列.doc  
 高等电磁场理论(第二版).pdf  
 高速电路设计实践.pdf  
+高速设计技术.pdf  
 
 ## 计算机
 DEBUG HACKS深入调试的技术和工具.pdf  
