@@ -78,6 +78,7 @@ caffe网络模型各层详解(中文版).pdf
 ## 硬件
 高速设计技术.pdf  
 IC封装基础与工程设计实例.pdf  
+MT-031_实现数据转换器的接地.pdf  
 PCB信号完整性分析与设计(硕士学位论文).pdf  
 SD-CLK波形分析.pdf  
 The Art of Electronics 3rd ed [2015].pdf  
