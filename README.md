@@ -107,6 +107,7 @@ go语言圣经.pdf
 The.Go.Programming.Language.2015.11.pdf  
 DisplayPort 1.4 TX.pdf  
 HDMI_1.4.pdf  
+IDA Pro权威指南(第2版).pdf  
 Boot_one_second_altenberg.pdf  
 Debug Hacks中文版—深入调试的技术和工具.pdf  
 Linux_UNIX系统编程手册.pdf  
@@ -163,14 +164,14 @@ UVC 1.5 Class specification.pdf
 video_file_format_spec_v10_1.pdf  
 WebRTC权威指南(原书第3版).pdf  
 腾讯云超低延时直播白皮书.pdf  
-性能之巅洞悉系统、企业与云计算.pdf  
-深入理解计算机系统(原书第3版).pdf  
 学习OpenCV3.pdf  
 数字图像处理(第四版).pdf  
 算法图解.pdf  
-编译原理(第2版).pdf  
+性能之巅洞悉系统、企业与云计算.pdf  
+深入理解计算机系统(原书第3版).pdf  
 菜鸟的操作系统梦.pdf  
 计算机体系结构量化研究方法(第5版).pdf  
+编译原理(第2版).pdf  
 
 ## 金融
 打开量化投资的黑箱(原书第2版).pdf  
