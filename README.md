@@ -173,6 +173,7 @@ WebRTC权威指南(原书第3版).pdf
 TCPIP详解 卷1：协议(第2版).pdf  
 TCPIP详解 卷2：实现.pdf  
 TCPIP详解 卷3：TCP事务协议、HTTP、NNTP和UNIX域协议.pdf  
+Web性能权威指南.pdf  
 
 ## 金融
 打开量化投资的黑箱(原书第2版).pdf  
