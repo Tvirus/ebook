@@ -117,9 +117,6 @@ Linux内核精髓-精通Linux内核必会的75个绝技.pdf
 Linux命令行与shell脚本编程大全第3版.pdf  
 Linux设备驱动开发详解_宋宝华.pdf  
 LINUX设备驱动程序.pdf  
-TCPIP详解 卷1：协议(第2版).pdf  
-TCPIP详解 卷2：实现.pdf  
-TCPIP详解 卷3：TCP事务协议、HTTP、NNTP和UNIX域协议.pdf  
 UNIX环境高级编程(第3版).pdf
 UNIX网络编程卷2：进程间通信(第2版).pdf  
 嵌入式Linux应用开发完全手册.pdf  
@@ -169,9 +166,13 @@ WebRTC权威指南(原书第3版).pdf
 算法图解.pdf  
 性能之巅洞悉系统、企业与云计算.pdf  
 深入理解计算机系统(原书第3版).pdf  
+现代操作系统(第4版).pdf  
 菜鸟的操作系统梦.pdf  
 计算机体系结构量化研究方法(第5版).pdf  
 编译原理(第2版).pdf  
+TCPIP详解 卷1：协议(第2版).pdf  
+TCPIP详解 卷2：实现.pdf  
+TCPIP详解 卷3：TCP事务协议、HTTP、NNTP和UNIX域协议.pdf  
 
 ## 金融
 打开量化投资的黑箱(原书第2版).pdf  
