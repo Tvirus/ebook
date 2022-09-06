@@ -155,6 +155,7 @@ usb3.0协议中文版.pdf
 usb_20_20181221.zip  
 USB_PD_R3_0 V1.1 20170112.pdf  
 圈圈教你玩USB(第2版).pdf  
+HTML5与CSS3基础教程(第8版).pdf  
 wpa_supplicant-devel.pdf  
 rfc2326_rtsp.txt  
 USB_Video_Class_1_5.zip  
