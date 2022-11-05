@@ -117,6 +117,7 @@ Linux内核深度解析.pdf
 Linux内核精髓-精通Linux内核必会的75个绝技.pdf  
 Linux命令行与shell脚本编程大全第3版.pdf  
 LINUX系统编程(第2版).pdf  
+Linux设备驱动开发.pdf  
 Linux设备驱动开发详解_宋宝华.pdf  
 LINUX设备驱动程序.pdf  
 UNIX环境高级编程(第3版).pdf
