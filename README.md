@@ -98,6 +98,9 @@ TI信号链精品博文集锦——看一个TI老工程师如何驯服精密放�
 高速电路设计实践.pdf  
 高速设计技术.pdf  
 
+## 蓝牙
+低功耗蓝牙开发权威指南.pdf  
+
 ## 计算机
 DEBUG HACKS深入调试的技术和工具.pdf  
 GCC The Complete Reference-中文.pdf  
