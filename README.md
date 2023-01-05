@@ -129,6 +129,7 @@ UNIX网络编程 卷2：进程间通信(第2版).pdf
 嵌入式Linux应用开发完全手册.pdf  
 深入Linux内核架构.pdf  
 深入理解LINUX内核(第三版).pdf  
+Buildroot用户手册(中文版)V1.0.pdf  
 Embedded Linux Development Using Yocto Project Cookbook Second Edition.pdf  
 Embedded Linux Development with Yocto Project.pdf  
 Embedded Linux Projects Using Yocto Project Cookbook.pdf  
