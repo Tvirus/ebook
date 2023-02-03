@@ -7,51 +7,8 @@ ISO_IEC_18092
 ISO_IEC_21481-2021.pdf  
 ISO_IEC_28361-2007.pdf  
 ISO_IEC_7816  
-Activity 1.1.pdf  
-Connection Handover 1.2.pdf  
-Generic Control Record Type Definition 1.0.pdf  
-Logical Link Control Protocol (LLCP) 1.1.pdf  
-NFC Activity Specification 1.0.pdf  
-NFC Analog Specification 1.0.pdf  
-NFC Controller Interface (NCI) 1.0.pdf  
-NFC Controller Interface (NCI) 1.1.pdf  
-NFC Controller Interface (NCI) 2.0.pdf  
-NFC Data Exchange Format (NDEF) 1.0.pdf  
-NFC Digital Protocol 1.0.pdf  
-NFC Record Type Definition (RTD) 1.0.pdf  
-NFC Tag Type 5 Specification 1.8.pdf  
-Personal Health Device Communication 1.0.pdf  
-Signature Record Type Definition 1.0.pdf  
-Simple NDEF Exchange Protocol (SNEP) 1.0.pdf  
-Smart Poster Record Type Definition 1.0.pdf  
-Text Record Type Definition 1.0.pdf  
-Type 1 Tag Operation 1.2.pdf  
-Type 1 Tag Operation Specification 1.1.pdf  
-Type 2 Tag Operation Specification 1.1.pdf  
-Type 3 Tag Operation Specification 1.1.pdf  
-Type 4 Tag Operation 3.0.pdf  
-Type 4 Tag Operation Specification 2.0.pdf  
-URI Record Type Definition 1.0.pdf  
+NFC_Forum  
 中国金融集成电路(IC)卡规范PBOC_送审稿  
-
-## rfid
-FMCOS2.0专用技术手册.pdf  
-FMCOS2.0用户手册.pdf  
-FMCOS2.0通用技术手册(上海复旦微电子).pdf  
-FMCOS2.0通用技术手册1.1.2.pdf  
-ISO7816-1234(中文).pdf  
-ISO_IEC_14443-4(中文).doc  
-ISO_IEC_14443-4(中文).pdf  
-ISO_IEC_14443-4-2018.pdf  
-ISO_IEC_7816-4-2013.pdf  
-RFID芯片天线设计与匹配简单参考资料.pdf  
-凌科芯安LKCOS参考手册v2.1.pdf  
-凌科芯安LKT2102U用户手册v2.0.pdf  
-复旦微读写器天线设计.pdf  
-天安信TCOS用户手册v1.5.pdf  
-明华澳汉SmartCOS-PSAM技术方案v1.3.pdf  
-智能卡ISO7816-4规范(中文版).doc  
-智能卡ISO7816-4规范(中文版).pdf  
 
 ## 数学
 Matrix Computations(4th).pdf  
@@ -62,8 +19,8 @@ Matrix Computations(4th).pdf
 普林斯顿微积分读本(修订版).pdf  
 概率论基础教程(第9版).pdf  
 矩阵计算(第3版).pdf  
-线性代数及其应用答案(第5版).pdf  
 线性代数及其应用(第5版).pdf  
+线性代数及其应用答案(第5版).pdf  
 统计学习方法.pdf  
 
 ## 深度学习
@@ -71,8 +28,6 @@ Caffe官方教程中译本_CaffeCN社区翻译.pdf
 caffe网络模型各层详解(中文版).pdf  
 机器学习_周志华.pdf  
 深度学习(花书).pdf  
-深度学习(花书)_2.pdf  
-深度学习(花书)_3.pdf  
 神经网络与机器学习(原书第3版).pdf  
 计算机视觉 模型、学习和推理.pdf  
 
@@ -98,7 +53,33 @@ TI信号链精品博文集锦——看一个TI老工程师如何驯服精密放�
 高速电路设计实践.pdf  
 高速设计技术.pdf  
 
-## 蓝牙
+## 硬件协议
+DisplayPort 1.4 TX.pdf  
+HDMI_1.4.pdf  
+高清多媒体接口(HDMI)EDID规范详解.pdf  
+FMCOS2.0专用技术手册.pdf  
+FMCOS2.0用户手册.pdf  
+FMCOS2.0通用技术手册(上海复旦微电子).pdf  
+FMCOS2.0通用技术手册1.1.3.pdf  
+ISO7816-1234(中文).pdf  
+ISO_IEC_14443-4(中文).doc  
+ISO_IEC_14443-4(中文).pdf  
+ISO_IEC_14443-4-2018.pdf  
+ISO_IEC_7816-4-2013.pdf  
+RFID芯片天线设计与匹配简单参考资料.pdf  
+凌科芯安LKCOS参考手册v2.1.pdf  
+凌科芯安LKT2102U用户手册v2.0.pdf  
+复旦微读写器天线设计.pdf  
+天安信TCOS用户手册v1.5.pdf  
+明华澳汉SmartCOS-PSAM技术方案v1.3.pdf  
+智能卡ISO7816-4规范(中文版).doc  
+智能卡ISO7816-4规范(中文版).pdf  
+USB Power Delivery 20210706.zip  
+USB Video Class 1_5  
+usb3.0协议中文版.pdf  
+usb_20_20181221.zip  
+USB_PD_R3_0 V1.1 20170112.pdf  
+圈圈教你玩USB(第2版).pdf  
 低功耗蓝牙开发权威指南.pdf  
 
 ## 计算机
@@ -106,12 +87,10 @@ DEBUG HACKS深入调试的技术和工具.pdf
 GCC The Complete Reference-中文.pdf  
 GCC The Complete Reference.pdf  
 gcc.pdf  
-Denis Bakhvalov - Performance Analysis and Tuning on Modern CPUs.pdf  
+编译原理(第2版).pdf  
 Go学习笔记(第4版).pdf  
 go语言圣经.pdf  
 The.Go.Programming.Language.2015.11.pdf  
-DisplayPort 1.4 TX.pdf  
-HDMI_1.4.pdf  
 IDA Pro权威指南(第2版).pdf  
 Boot_one_second_altenberg.pdf  
 Debug Hacks中文版—深入调试的技术和工具.pdf  
@@ -124,7 +103,7 @@ LINUX系统编程(第2版).pdf
 Linux设备驱动开发.pdf  
 Linux设备驱动开发详解_宋宝华.pdf  
 LINUX设备驱动程序.pdf  
-UNIX环境高级编程(第3版).pdf
+UNIX环境高级编程(第3版).pdf  
 UNIX网络编程 卷2：进程间通信(第2版).pdf  
 嵌入式Linux应用开发完全手册.pdf  
 深入Linux内核架构.pdf  
@@ -156,12 +135,6 @@ Python高性能编程.pdf
 利用Python进行数据分析(第2版).pdf  
 利用Python进行数据分析.pdf  
 Rust权威指南.pdf  
-USB Power Delivery 20210706.zip  
-USB Video Class 1_5  
-usb3.0协议中文版.pdf  
-usb_20_20181221.zip  
-USB_PD_R3_0 V1.1 20170112.pdf  
-圈圈教你玩USB(第2版).pdf  
 HTML5与CSS3基础教程(第8版).pdf  
 wpa_supplicant-devel.pdf  
 rfc2326_rtsp.txt  
@@ -173,13 +146,13 @@ WebRTC权威指南(原书第3版).pdf
 学习OpenCV3.pdf  
 数字图像处理(第四版).pdf  
 算法图解.pdf  
+Denis Bakhvalov - Performance Analysis and Tuning on Modern CPUs.pdf  
 性能之巅洞悉系统、企业与云计算.pdf  
 深入理解计算机系统(原书第3版).pdf  
 现代操作系统(第4版).pdf  
 菜鸟的操作系统梦.pdf  
 计算机体系结构量化研究方法(第5版).pdf  
 计算机组成与设计 硬件软件接口(第5版).pdf  
-编译原理(第2版).pdf  
 TCPIP详解 卷1：协议(第2版).pdf  
 TCPIP详解 卷2：实现.pdf  
 TCPIP详解 卷3：TCP事务协议、HTTP、NNTP和UNIX域协议.pdf  
