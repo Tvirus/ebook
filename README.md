@@ -57,6 +57,7 @@ TI信号链精品博文集锦——看一个TI老工程师如何驯服精密放�
 DisplayPort 1.4 TX.pdf  
 HDMI_1.4.pdf  
 高清多媒体接口(HDMI)EDID规范详解.pdf  
+FM175XX_LPCD用户手册.pdf  
 FMCOS2.0专用技术手册.pdf  
 FMCOS2.0用户手册.pdf  
 FMCOS2.0通用技术手册(上海复旦微电子).pdf  
