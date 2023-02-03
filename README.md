@@ -99,6 +99,7 @@ Linux_UNIX系统编程手册.pdf
 Linux内核完全注释.pdf  
 Linux内核深度解析.pdf  
 Linux内核精髓-精通Linux内核必会的75个绝技.pdf  
+Linux内核观测技术BPF.pdf  
 Linux命令行与shell脚本编程大全第3版.pdf  
 LINUX系统编程(第2版).pdf  
 Linux设备驱动开发.pdf  
