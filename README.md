@@ -1,6 +1,7 @@
 
 ## ISO_IEC
 GBT_28181  
+HDMI_DP  
 ISO_IEC_13157  
 ISO_IEC_14443  
 ISO_IEC_15693  
@@ -56,9 +57,6 @@ TI信号链精品博文集锦——看一个TI老工程师如何驯服精密放�
 高速设计技术.pdf  
 
 ## 硬件协议
-DisplayPort 1.4 TX.pdf  
-HDMI_1.4.pdf  
-高清多媒体接口(HDMI)EDID规范详解.pdf  
 FM175XX_LPCD用户手册.pdf  
 FMCOS2.0专用技术手册.pdf  
 FMCOS2.0用户手册.pdf  
