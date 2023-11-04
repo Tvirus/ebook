@@ -9,6 +9,7 @@ ISO_IEC_21481-2021.pdf
 ISO_IEC_28361-2007.pdf  
 ISO_IEC_7816  
 NFC_Forum  
+SD  
 中国金融集成电路(IC)卡规范PBOC_送审稿  
 
 ## 数学
@@ -85,6 +86,7 @@ USB_PD_R3_0 V1.1 20170112.pdf
 低功耗蓝牙开发权威指南.pdf  
 
 ## 计算机
+基于AUTOSAR规范的车用电机控制器软件开发.pdf  
 DEBUG HACKS深入调试的技术和工具.pdf  
 GCC The Complete Reference-中文.pdf  
 GCC The Complete Reference.pdf  
@@ -140,7 +142,6 @@ Python高性能编程.pdf
 Rust权威指南.pdf  
 HTML5与CSS3基础教程(第8版).pdf  
 wpa_supplicant-devel.pdf  
-rfc2326_rtsp.txt  
 USB_Video_Class_1_5.zip  
 UVC 1.5 Class specification.pdf  
 video_file_format_spec_v10_1.pdf  
