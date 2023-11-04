@@ -11,6 +11,7 @@ ISO_IEC_28361-2007.pdf
 ISO_IEC_7816  
 MIPI  
 NFC_Forum  
+PCI  
 SD  
 USB_PD  
 中国金融集成电路(IC)卡规范PBOC_送审稿  
@@ -77,13 +78,6 @@ RFID芯片天线设计与匹配简单参考资料.pdf
 明华澳汉SmartCOS-PSAM技术方案v1.3.pdf  
 智能卡ISO7816-4规范(中文版).doc  
 智能卡ISO7816-4规范(中文版).pdf  
-USB Power Delivery 20210706.zip  
-USB Video Class 1_5  
-usb3.0协议中文版.pdf  
-usb_20_20181221.zip  
-USB_PD_R3_0 V1.1 20170112.pdf  
-圈圈教你玩USB(第2版).pdf  
-低功耗蓝牙开发权威指南.pdf  
 
 ## 计算机
 基于AUTOSAR规范的车用电机控制器软件开发.pdf  
@@ -142,6 +136,7 @@ Python高性能编程.pdf
 Rust权威指南.pdf  
 HTML5与CSS3基础教程(第8版).pdf  
 wpa_supplicant-devel.pdf  
+圈圈教你玩USB(第2版).pdf  
 USB_Video_Class_1_5.zip  
 UVC 1.5 Class specification.pdf  
 video_file_format_spec_v10_1.pdf  
@@ -161,6 +156,7 @@ TCPIP详解 卷1：协议(第2版).pdf
 TCPIP详解 卷2：实现.pdf  
 TCPIP详解 卷3：TCP事务协议、HTTP、NNTP和UNIX域协议.pdf  
 Web性能权威指南.pdf  
+低功耗蓝牙开发权威指南.pdf  
 
 ## 金融
 打开量化投资的黑箱(原书第2版).pdf  
