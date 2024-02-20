@@ -17,6 +17,26 @@ SD
 USB_PD  
 中国金融集成电路(IC)卡规范PBOC_送审稿  
 
+## rfid
+FM175XX_LPCD用户手册.pdf  
+FMCOS2.0专用技术手册.pdf  
+FMCOS2.0用户手册.pdf  
+FMCOS2.0通用技术手册(上海复旦微电子).pdf  
+FMCOS2.0通用技术手册1.1.3.pdf  
+ISO7816-1234(中文).pdf  
+ISO_IEC_14443-4(中文).doc  
+ISO_IEC_14443-4(中文).pdf  
+ISO_IEC_14443-4-2018.pdf  
+ISO_IEC_7816-4-2013.pdf  
+RFID芯片天线设计与匹配简单参考资料.pdf  
+凌科芯安LKCOS参考手册v2.1.pdf  
+凌科芯安LKT2102U用户手册v2.0.pdf  
+复旦微读写器天线设计.pdf  
+天安信TCOS用户手册v1.5.pdf  
+明华澳汉SmartCOS-PSAM技术方案v1.3.pdf  
+智能卡ISO7816-4规范(中文版).doc  
+智能卡ISO7816-4规范(中文版).pdf  
+
 ## 数学
 Matrix Computations(4th).pdf  
 信号与系统(第二版).pdf  
@@ -59,26 +79,6 @@ TI信号链精品博文集锦——看一个TI老工程师如何驯服精密放�
 高等电磁场理论(第二版).pdf  
 高速电路设计实践.pdf  
 高速设计技术.pdf  
-
-## 硬件协议
-FM175XX_LPCD用户手册.pdf  
-FMCOS2.0专用技术手册.pdf  
-FMCOS2.0用户手册.pdf  
-FMCOS2.0通用技术手册(上海复旦微电子).pdf  
-FMCOS2.0通用技术手册1.1.3.pdf  
-ISO7816-1234(中文).pdf  
-ISO_IEC_14443-4(中文).doc  
-ISO_IEC_14443-4(中文).pdf  
-ISO_IEC_14443-4-2018.pdf  
-ISO_IEC_7816-4-2013.pdf  
-RFID芯片天线设计与匹配简单参考资料.pdf  
-凌科芯安LKCOS参考手册v2.1.pdf  
-凌科芯安LKT2102U用户手册v2.0.pdf  
-复旦微读写器天线设计.pdf  
-天安信TCOS用户手册v1.5.pdf  
-明华澳汉SmartCOS-PSAM技术方案v1.3.pdf  
-智能卡ISO7816-4规范(中文版).doc  
-智能卡ISO7816-4规范(中文版).pdf  
 
 ## 计算机
 基于AUTOSAR规范的车用电机控制器软件开发.pdf  
