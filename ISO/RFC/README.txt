@@ -8,6 +8,7 @@ rfc2361    WAVE and AVI Codec Registries
 rfc2616    Hypertext Transfer Protocol -- HTTP/1.1
 rfc2862    RTP Payload Format for Real-Time Pointers
 rfc2959    Real-Time Transport Protocol Management Information Base
+rfc3261    SIP: Session Initiation Protocol
 rfc3266    Support for IPv6 in Session Description Protocol (SDP)
 rfc3548    The Base16, Base32, and Base64 Data Encodings
 rfc3550    RTP: A Transport Protocol for Real-Time Applications
