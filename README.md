@@ -15,6 +15,7 @@ MIPI
 NFC_Forum  
 PCI  
 RFC  
+RIFF  
 SD  
 USB_PD  
 中国金融集成电路(IC)卡规范PBOC_送审稿  
