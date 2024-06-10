@@ -79,6 +79,7 @@ PCB信号完整性分析与设计(硕士学位论文).pdf
 PCB设计秘籍.pdf  
 SD-CLK波形分析.pdf  
 The Art of Electronics 3rd ed [2015].pdf  
+THE CIRCUIT DESIGNERS COMPANION 3nd Edition.pdf  
 TI信号链精品博文集锦——看一个TI老工程师如何驯服精密放大器.pdf  
 中兴通讯硬件一部巨作-信号完整性.pdf  
 你好，放大器_V2_20141217.pdf  
