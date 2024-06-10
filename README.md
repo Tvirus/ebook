@@ -166,6 +166,7 @@ WebRTC权威指南(原书第3版).pdf
 算法图解.pdf  
 Denis Bakhvalov - Performance Analysis and Tuning on Modern CPUs.pdf  
 性能之巅洞悉系统、企业与云计算.pdf  
+深入理解并行编程_2011-02-12.pdf  
 深入理解计算机系统(原书第3版).pdf  
 现代操作系统(第4版).pdf  
 菜鸟的操作系统梦.pdf  
