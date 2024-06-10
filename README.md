@@ -73,6 +73,7 @@ caffe网络模型各层详解(中文版).pdf
 ## 硬件
 Baker放大器文章精选.pdf  
 Electromagnetic Compatibility Principles and Applications 2nd Edition.pdf  
+Engineering Circuit Analysis 8th Edition.pdf  
 IC封装基础与工程设计实例.pdf  
 MT-031_实现数据转换器的接地.pdf  
 Operational Amplifier Stability Part 11.pdf  
@@ -80,7 +81,7 @@ PCB信号完整性分析与设计(硕士学位论文).pdf
 PCB设计秘籍.pdf  
 SD-CLK波形分析.pdf  
 The Art of Electronics 3rd ed [2015].pdf  
-THE CIRCUIT DESIGNERS COMPANION 3nd Edition.pdf  
+THE CIRCUIT DESIGNERS COMPANION 3rd Edition.pdf  
 TI信号链精品博文集锦——看一个TI老工程师如何驯服精密放大器.pdf  
 中兴通讯硬件一部巨作-信号完整性.pdf  
 你好，放大器_V2_20141217.pdf  
