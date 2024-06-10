@@ -72,6 +72,7 @@ caffe网络模型各层详解(中文版).pdf
 
 ## 硬件
 Baker放大器文章精选.pdf  
+Electromagnetic Compatibility Principles and Applications 2nd Edition.pdf  
 IC封装基础与工程设计实例.pdf  
 MT-031_实现数据转换器的接地.pdf  
 Operational Amplifier Stability Part 11.pdf  
