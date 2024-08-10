@@ -17,6 +17,7 @@ NFC_Forum
 PCI  
 RFC  
 RIFF  
+SAE_J1939  
 SD  
 T-REC-G.191-202303-I!!SOFT-ZST-E.zip  
 T-REC-G.701-199303-I!!PDF-E.pdf  
