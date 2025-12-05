@@ -19,6 +19,7 @@ JESD216
 JESD84  
 MIPI  
 NFC_Forum  
+NMEA_0183_Version_4.10.pdf  
 PCI  
 RFC  
 RIFF  
