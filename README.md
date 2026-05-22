@@ -159,6 +159,7 @@ Python高性能编程.pdf
 利用Python进行数据分析(第2版).pdf  
 利用Python进行数据分析.pdf  
 Rust权威指南.pdf  
+TI电量计应用指导.pdf  
 HTML5与CSS3基础教程(第8版).pdf  
 wpa_supplicant-devel.pdf  
 圈圈教你玩USB(第2版).pdf  
